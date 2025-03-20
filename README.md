@@ -80,7 +80,7 @@ curl -X POST http://localhost:4000/send-to-a -H "Content-Type: application/json"
 
 ## **Folder Structure**
 ```
-microservices/
+Test-for-Mynth/
   ├── serviceA/
   │   ├── src/
   │   │   ├── server.ts
