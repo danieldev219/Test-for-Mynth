@@ -17,7 +17,7 @@ This project consists of two microservices:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/danieldev219/Test-for-Mynth.git
-cd microservices
+cd Test-for-Mynth
 ```
 ### 2. Install Dependencies
 Install dependencies for both services:
