@@ -93,9 +93,6 @@ Test-for-Mynth/
   │   │   ├── rabbitmq.ts
   │   ├── package.json
   │   ├── tsconfig.json
-  ├── shared/
-  │   ├── types/
-  │   │   ├── message.ts
   ├── docker-compose.yml
   ├── README.md
 ```
